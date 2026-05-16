@@ -1,0 +1,52 @@
+{
+    "name": "thingy stuff 2026-05-01 9:11 AM 2026-05-12 7:31 PM",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "arcade-tilemap-a-star": "github:jwunderl/arcade-tilemap-a-star#v0.4.0",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.1.0",
+        "darts": "*",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.14",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#F1F3FF",
+        "#FF2121",
+        "#FF8D99",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#78DC52",
+        "#004BBC",
+        "#66BDFF",
+        "#8E2EC4",
+        "#A4839F",
+        "#5C406c",
+        "#FFD5C1",
+        "#91463d",
+        "#000000"
+    ]
+}
